@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1F5A976C-C670-47CA-9340-E387109F92EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack_Nakashima/Program.cs">
+    <Files>
+      <File FileName="BlackJack_Nakashima/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlackJack_Nakashima" expanded="True">
+            <Node name="BlackJack_Nakashima" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlackJack__Nakashima PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

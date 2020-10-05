@@ -1,0 +1,12 @@
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/bin/Debug/netcoreapp3.1/BlackJack_Nakashima.deps.json
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/bin/Debug/netcoreapp3.1/BlackJack_Nakashima.runtimeconfig.json
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/bin/Debug/netcoreapp3.1/BlackJack_Nakashima.runtimeconfig.dev.json
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/bin/Debug/netcoreapp3.1/BlackJack_Nakashima.dll
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/bin/Debug/netcoreapp3.1/BlackJack_Nakashima.pdb
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.csprojAssemblyReference.cache
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.AssemblyInfoInputs.cache
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.AssemblyInfo.cs
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.csproj.CoreCompileInputs.cache
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.dll
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.pdb
+/Users/shogonakashima/projects/BlackJack_Nakashima/BlackJack_Nakashima/obj/Debug/netcoreapp3.1/BlackJack_Nakashima.genruntimeconfig.cache
